@@ -1,1 +1,1 @@
-# @bizniche/react
+# @bizniche/vite-template
